@@ -8,7 +8,7 @@
 
 🐞 Request features and report bugs in the [BOMnipotent Doc Repository](https://github.com/Weichwerke-Heidrich-Software/bomnipotent_doc/issues).
 
-💬 Get in touch on [LikedIn](https://www.linkedin.com/company/weichwerke-heidrich-software)!
+💬 Get in touch on [LinkedIn](https://www.linkedin.com/company/weichwerke-heidrich-software)!
 
 ---
 
