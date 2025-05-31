@@ -8,6 +8,8 @@
 
 🐞 Request features and report bugs in the [BOMnipotent Doc Repository](https://github.com/Weichwerke-Heidrich-Software/bomnipotent_doc/issues).
 
+🏗️ Integrate BOMnipotent into your pipeline using the [setup](https://github.com/marketplace/actions/setup-bomnipotent-client), [upload](https://github.com/marketplace/actions/upload-bom-to-bomnipotent-server) and [vulnerability](https://github.com/marketplace/actions/bomnipotent-server-vulnerability-check) GitHub action.
+
 💬 Get in touch on [LinkedIn](https://www.linkedin.com/company/weichwerke-heidrich-software)!
 
 ---
